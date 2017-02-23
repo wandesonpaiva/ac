@@ -58,8 +58,9 @@ Neste sentido, o professor irá usar o **forked github** de cada aluno para o re
 
 Considerando:
 
+- Todo o projeto será em [NodeJS](https://nodejs.org) ou [TypeScript](https://www.typescriptlang.org) e suas bibliotecas;
 - O sistema será com API no protocolo Rest Web Service;
-- A autenticação não será desenvolvida no momento, contudo é necessário a identificação do aluno requerente
+- A autenticação não será desenvolvida no momento, contudo é necessário a identificação do aluno requerente.
 
 Implemente:
 
