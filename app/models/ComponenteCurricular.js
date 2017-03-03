@@ -1,7 +1,7 @@
-var ComponenteCurricular = function(nome, ch){
+var ComponenteCurricular = function(nome, carga_horaria){
 
   this.nome = nome;
-  this.ch = ch;
+  this.carga_horaria = carga_horaria;
 };
 
 module.exports = ComponenteCurricular;
